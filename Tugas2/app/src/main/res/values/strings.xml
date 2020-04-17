@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Tugas2</string>
+    <string name="edt_username">Username</string>
+    <string name="edt_password">Password</string>
+    <string name="edt_repassword">Retype Password</string>
+    <string name="edt_email">Email</string>
+    <string name="edt_phone">Phone Number</string>
+    <string name="edt_register">Register</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="edt_personal">Personal</string>
+    <string name="edt_organization">Organization</string>
+    <string name="edt_job">Job</string>
+    <string name="edt_address">Home Address</string>
+    <string name="edt_location">Default Location</string>
+    <string name="check_agrrement">Agree with Terms and Conditions</string>
+    <string name="btn_login">Login</string>
+    <string name="txtview">OR</string>
+    <string name="btn_loginFB">CONNECT WITH FACEBOOK</string>
+    <string name="txtRegister">doesn"'"t have account ? &lt;font color="#ffffff">&lt;b>Register&lt;/b>&lt;/font></string>
+    <string name="txt_verify1">Almost There</string>
+    <string name="txt_verify2">Thank you for registering with us. One more step, you need to check your email to activate your account.</string>
+    <string name="txt_verify3">VERIFY</string>
+    <string name="txt_verify_your_account">Verify your Account</string>
+    <string name="txt_verify_account">We have send verification code to your email</string>
+    <string name="txt_verify_account1">enter verification code here ...</string>
+    <string name="ActionBarRegister">&lt;b>Register&lt;/b></string>
+    <string-array name="array_blood">
+        <item>Blood Type</item>
+        <item>A</item>
+        <item>B</item>
+        <item>O</item>
+        <item>AB</item>
+    </string-array>
+    <string-array name="array_rhesus">
+        <item>Rhesus</item>
+    </string-array>
+</resources>
